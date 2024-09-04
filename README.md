@@ -1,1 +1,2 @@
-# music_player_miniproject1
+# music-player-mini-project
+https://music-player358.netlify.app/
